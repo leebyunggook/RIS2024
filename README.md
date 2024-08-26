@@ -1,6 +1,6 @@
 # RIS2024
 
-OpenCV Python Tutorial, Alexander Mordvintsev & Abid K 
+OpenCV Python Tutorial, Alexander Mordvintsev & Abid K <br>
 https://opencv24-python-tutorials.readthedocs.io/_/downloads/en/stable/pdf/
 
 conda update conda<br>
