@@ -10,5 +10,7 @@ conda activate RIS2024<br>
 pip install --upgrade pip<br>
 pip install opencv-python<br>
 pip install matplotlib<br>
+pip install pyrealsense2<br>
+
 
 
