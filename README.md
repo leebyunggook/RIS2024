@@ -11,6 +11,7 @@ pip install --upgrade pip<br>
 pip install opencv-python<br>
 pip install matplotlib<br>
 pip install pyrealsense2<br>
+pip install pygame<br>
 pip install PyOpenGL<br>
 pip install PyOpenGL_accelerate<br>
 
