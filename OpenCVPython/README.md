@@ -1,3 +1,8 @@
+# OpenCV Python Tutorial
+
+[OpenCV Python Tutorial](https://opencv24-python-tutorials.readthedocs.io/_/downloads/en/stable/pdf/), Alexander Mordvintsev & Abid K <br>
+
+[Python](https://www.python.org/), [Anaconda](https://www.anaconda.com/),
 
 OpenCV-Python<br>
 chap 1.2.2 Getting Started with Videos https://youtu.be/yrFvgH0Au8E <br>
@@ -12,4 +17,3 @@ chap 1.4.10 Histograms in OpenCV <br>
 chap 1.4.12 Template Matching <br>
 chap 1.4.13 Hough Line Transform <br>
 chap 1.4.14 Hough Circle Transform <br>
-
