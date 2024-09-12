@@ -15,12 +15,11 @@ pip install pygame<br>
 pip install PyOpenGL<br>
 pip install PyOpenGL_accelerate<br>
 
-[Full Python Tutorial](https://drive.google.com/open?id=1eWCa8n5kukfqEwhwYCbY-U_8deloT6Pg) 
-https://youtu.be/ieHU0KlSQ0E
-https://youtu.be/do2SOcb96Eo
-https://youtu.be/o-jnApGU8Uo 
-https://youtu.be/CkGW5W4eE6I
-
+[Full Python Tutorial](https://drive.google.com/open?id=1eWCa8n5kukfqEwhwYCbY-U_8deloT6Pg) <br>
+Tuples vs Lists https://youtu.be/ieHU0KlSQ0E <br>
+Dictionaries, Boolean Expressions https://youtu.be/do2SOcb96Eo <br>
+Control Flow, For Loops https://youtu.be/o-jnApGU8Uo <br>
+Functions in Python https://youtu.be/CkGW5W4eE6I <br>
 
 github Markdown README.md<br> 
 https://youtu.be/fFfurJGcNlo
